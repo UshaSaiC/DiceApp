@@ -26,7 +26,7 @@ class ViewController: UIViewController {
 
     //IBAction is triggered when a particular action happens on UI element
     @IBAction func rollButtonClicked(_ sender: Any) {
-        print("Button is tapped)")
+        print("Button is tapped")
         rightSideDiceImageView.image = #imageLiteral(resourceName: "DiceFour")
         leftSideDiceImageView.image = #imageLiteral(resourceName: "DiceFour")
     }

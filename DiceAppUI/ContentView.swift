@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  DiceAppUI
-//
-//  Created by Usha Sai Chintha on 11/09/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
